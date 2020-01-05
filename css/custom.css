@@ -1,0 +1,13 @@
+body {
+	padding-top: 56px;
+}
+.container {
+	padding: 20px;
+}
+.blog-post {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+.profile-image {
+	width: 215px;
+}
